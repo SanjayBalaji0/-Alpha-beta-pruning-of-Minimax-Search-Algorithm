@@ -222,7 +222,8 @@ if __name__ == "__main__":
 </p>
 <hr>
 <h2>Output:</h2>
-![image](https://github.com/user-attachments/assets/87f4e361-171f-4128-a16b-f3d9784e1caa)
+img="![image](https://github.com/user-attachments/assets/ee22380c-52ce-4278-8cc5-5a91c62d1c11)"
+
 
 
 <h2>Result:</h2>
