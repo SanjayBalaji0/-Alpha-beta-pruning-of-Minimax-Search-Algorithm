@@ -221,6 +221,10 @@ if __name__ == "__main__":
 ```
 </p>
 <hr>
+<h2>Output:</h2>
+![image](https://github.com/user-attachments/assets/87f4e361-171f-4128-a16b-f3d9784e1caa)
+
+
 <h2>Result:</h2>
 <p>We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</p>
 <hr>
